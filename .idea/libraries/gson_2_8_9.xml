@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gson-2.8.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../3modul/3lesson8.1.0/src/main/java/Gson/gson-2.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../3modul/libraries/lombok-1.18.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../3modul/libraries/telegrambots-5.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
